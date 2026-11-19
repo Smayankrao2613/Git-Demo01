@@ -13,7 +13,6 @@
 *.REMOTE.*
 *_BACKUP_*.txt
 *_BASE_*.txt
-*_LOCAL_*.txt
-*_REMOTE_*.txt
+
 *.log
 # End of https://www.toptal.com/developers/gitignore/api/git
