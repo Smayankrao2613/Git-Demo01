@@ -2,3 +2,5 @@ Hello Git!
 
 
 Third line added in feature1
+
+4th line added from local repo
